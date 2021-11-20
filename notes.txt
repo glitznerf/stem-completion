@@ -1,0 +1,22 @@
+stemming: write about overstemming and understemming
+lemmatization vs stemming
+
+Differences in testing implemented stemmer against NLTK Porter stemmer.
+Out of testset with 209 words, 23 were not matching:
+Word: they, generated: thei, true: they!
+Word: usually, generated: usu, true: usual!
+Word: judgements, generated: judg, true: judgement!
+Word: is, generated: i, true: is!
+Word: matter, generated: matt, true: matter!
+Word: something, generated: somet, true: someth!
+Word: as, generated: a, true: as!
+Word: father, generated: fath, true: father!
+Word: suggested, generated: sugges, true: suggest!
+Word: decencies, generated: dec, true: decenc!
+Word: is, generated: i, true: is!
+23 wrong out of 209
+
+for reproducability, we will continue with generally accepted nltk stemmer implementation.
+
+run full sentence splitter
+run full stemmer
