@@ -1,0 +1,13 @@
+1) download 50 most downloaded books in last 30 days from project gutenberg in clear text with utf-8 formatting
+-> /raw/
+
+2) remove headers, licenses, credits, title page, table of contents of each book
+-> /trimmed/
+
+3) replace any character that is not: alphabetic.,?!:;- by single space
+
+4) merge sentences over line breaks. Split sentences by empty lines and .?!:;
+
+5) make every character lowercase
+
+6) save lowercase sentences to txt file

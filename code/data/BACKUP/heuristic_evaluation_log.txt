@@ -1,0 +1,68 @@
+Example Test sentence: 'and make it up afterward' stemmed to 'and make it up afterward'
+	Prevalent Prediction: ['and', 'make', 'it', 'up', 'afterwards'], 
+	Random Prediction: ['ands', 'makee', 'it', 'up', 'afterward']
+Example Test sentence: 'as i couldn t return them' stemmed to 'as i couldn t return them'
+	Prevalent Prediction: ['as', 'i', 'couldn', 't', 'returned', 'them'], 
+	Random Prediction: ['as', 'i', 'couldn', 't', 'returned', 'them']
+Example Test sentence: 'at the same time' stemmed to 'at the same time'
+	Prevalent Prediction: ['at', 'the', 'same', 'time'], 
+	Random Prediction: ['at', 'the', 'sameness', 'timed']
+Example Test sentence: 'that siddhartha has remained thus alien and unknown to me' stemmed to 'that siddhartha ha remain thu alien and unknown to me'
+	Prevalent Prediction: ['that', 'siddhartha', 'has', 'remained', 'thus', 'alien', 'and', 'unknown', 'to', 'me'], 
+	Random Prediction: ['thats', 'siddhartha', 'ha', 'remaining', 'thus', 'aliens', 'and', 'unknown', 'toed', 'mes']
+Example Test sentence: 'being without possessions' stemmed to 'be without possess'
+	Prevalent Prediction: ['be', 'without', 'possession'], 
+	Random Prediction: ['being', 'without', 'possess']
+Example Test sentence: 'cecily' stemmed to 'cecili'
+	Prevalent Prediction: ['cecily'], 
+	Random Prediction: ['cecily']
+Example Test sentence: 'early tomorrow morning' stemmed to 'earli tomorrow morn'
+	Prevalent Prediction: ['early', 'tomorrow', 'morning'], 
+	Random Prediction: ['early', 'tomorrow', 'mornings']
+Example Test sentence: 'which she accentuated by throwing her body backward at the shoulders like a young cadet' stemmed to 'which she accentu by throw her bodi backward at the shoulder like a young cadet'
+	Prevalent Prediction: ['which', 'she', 'accentuated', 'by', 'throw', 'her', 'body', 'backward', 'at', 'the', 'shoulder', 'like', 'a', 'young', 'cadet'], 
+	Random Prediction: ['which', 'she', 'accentuated', 'by', 'throw', 'hers', 'bodies', 'backwardness', 'at', 'the', 'shoulders', 'liking', 'a', 'younge', 'cadet']
+Example Test sentence: 'and took hold of the road' stemmed to 'and took hold of the road'
+	Prevalent Prediction: ['and', 'took', 'hold', 'of', 'the', 'road'], 
+	Random Prediction: ['ands', 'took', 'hold', 'of', 'the', 'roads']
+Example Test sentence: 'if i would attend his little party that night' stemmed to 'if i would attend hi littl parti that night'
+	Prevalent Prediction: ['if', 'i', 'would', 'attend', 'his', 'little', 'party', 'that', 'night'], 
+	Random Prediction: ['if', 'i', 'would', 'attended', 'his', 'littles', 'parties', 'that', 'nights']
+892049 sentences tested in total.
+	Choosing the prevalent completion had a true:false ratio of 5726434:577088
+	Completions at random had a true:false ratio of 3479559:2823963.
+
+
+Example Test sentence: 'but look this way' stemmed to 'but look thi way'
+	Prevalent Prediction: ['but', 'looked', 'this', 'way'], 
+	Random Prediction: ['butting', 'looke', 'this', 'way']
+Example Test sentence: 'then that is the proper word to use in the present connexion' stemmed to 'then that is the proper word to use in the present connexion'
+	Prevalent Prediction: ['then', 'that', 'is', 'the', 'proper', 'words', 'to', 'used', 'in', 'the', 'present', 'connexion'], 
+	Random Prediction: ['thens', 'that', 'is', 'the', 'proper', 'worded', 'to', 'used', 'in', 'the', 'presentations', 'connexion']
+Example Test sentence: 'against the transom' stemmed to 'against the transom'
+	Prevalent Prediction: ['against', 'the', 'transom'], 
+	Random Prediction: ['against', 'the', 'transom']
+Example Test sentence: 'such as good' stemmed to 'such as good'
+	Prevalent Prediction: ['such', 'as', 'good'], 
+	Random Prediction: ['such', 'as', 'goods']
+Example Test sentence: 'the soldiers turn their swimming eyes' stemmed to 'the soldier turn their swim eye'
+	Prevalent Prediction: ['the', 'soldiers', 'turned', 'their', 'swimming', 'eyes'], 
+	Random Prediction: ['the', 'soldier', 'turning', 'their', 'swims', 'eyeful']
+Example Test sentence: 'in this grey house' stemmed to 'in thi grey hous'
+	Prevalent Prediction: ['in', 'this', 'grey', 'house'], 
+	Random Prediction: ['ins', 'thy', 'greys', 'houses']
+Example Test sentence: 'take it' stemmed to 'take it'
+	Prevalent Prediction: ['take', 'it'], 
+	Random Prediction: ['take', 'it']
+Example Test sentence: 'with a serious and respectful expression in her face' stemmed to 'with a seriou and respect express in her face'
+	Prevalent Prediction: ['with', 'a', 'serious', 'and', 'respect', 'expression', 'in', 'her', 'face'], 
+	Random Prediction: ['withe', 'a', 'serious', 'ands', 'respectively', 'express', 'ins', 'her', 'face']
+Example Test sentence: 'above' stemmed to 'abov'
+	Prevalent Prediction: ['above'], 
+	Random Prediction: ['above']
+Example Test sentence: 'do you hear' stemmed to 'do you hear'
+	Prevalent Prediction: ['do', 'you', 'hear'], 
+	Random Prediction: ['dos', 'you', 'heare']
+984386 sentences tested in total.
+	Choosing the prevalent completion had a true:false ratio of 5663900:695747
+	Completions at random had a true:false ratio of 3545097:2814550.
