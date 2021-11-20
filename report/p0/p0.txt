@@ -1,0 +1,13 @@
+Hi Vlado,
+
+This is my P0 submission:
+
+Title: 
+  Approaches to Automatic Stem Completion
+Team member:
+  Frederik Glitzner, CSID: glitzner, Banner#: B00910841, fr725212@dal.ca
+Description:
+  Stemming is a widely used NLP technique reducing words to their word stem, which might not be a valid root. As such, it is impossible to restore the suffix by inverting stemming algorithms such as the Porter Stemmer. However, by studying the stemming algorithm, theoretically we could construct a combinatorial list of all possible suffixes of a stem. Our hypothesis is that we can do better than this through processing of text corpora like a collection of books from Project Gutenberg, for example by limiting the list of possible suffixes to the seen completed versions of the stem, and even better by stochastic learning resulting in the assignment of probabilities to suffixes of a stem in a given context.
+
+Regards,
+Frederik
